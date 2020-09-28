@@ -1,0 +1,4 @@
+1.Download VM and Ubuntu
+2.Regist GitHub
+3.create Local Repository and Remote Repository
+4.test operate by instructions of git
