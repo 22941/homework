@@ -1,0 +1,5 @@
+example: chengfa.c
+
+git add chengfa.c
+git commit -m "text"
+git push origin master
