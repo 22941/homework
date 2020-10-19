@@ -4,3 +4,7 @@
 #include<unistd.h>
 #include<string.h>
 #include<fcntl.h>
+void err_exit(char *s){
+	printf("USAGE: *s is faile\n");
+	exit(1);
+}
